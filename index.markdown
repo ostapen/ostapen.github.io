@@ -3,20 +3,10 @@ layout: homepage
 title: About Me
 image: /images/profile.png
 #myname: Hi there!
-summary: Hi! I'm an undergraduate senior at Worcester Polytechnic Institute studying Computer Science and Mathematics.
+#summary:
 order: 1
 #permalink: /about/
 ---
+Hi! I'm an undergraduate senior at [Worcester Polytechnic Institute](https://wpi.edu) studying Computer Science and Mathematics.  My research interests lie at the intersection of human-computer interaction and machine learning (ML).  
 
-<!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll -->
+In graduate school, I hope to explore multimodal ML applications for **personal health informatics** and **human behavior analysis**.

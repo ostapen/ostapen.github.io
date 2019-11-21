@@ -4,26 +4,18 @@ layout: default
 <header class="post-header">
   <h3 class="post-title">{{ page.title | escape }}</h3>
 </header>
-<div class="card">
-  <div class="row">
-    <div class="col-md-4" style="width: 18rem;">
-      <img src={{page.image}} class="card-img-top" alt="...">
-    </div>
-    <div class="col-md-8">
-      <div class="card-footer w-100">
-        <ul class="contact-list">
-          <li class="p-name">Email:</li><li><a class="u-email" href="mailto:aostapenko@wpi.edu">aostapenko@wpi.edu</a></li></ul>
+<div class="container">
+  <div class="column" style="column-count:2">
+    <!-- <div class="col-md-4" style="width: 18rem;"> -->
+      <div class="card" style="width:20rem;">
 
-    </div>
-    </div>
+        <img src={{page.image}} class="card-img-top" alt="...">
+      <!-- <div class="card-footer w-100"> -->
+          <p class="card-footer" style="padding-top:20px; width:18rem; text-align:left;">{{content}}</p>
 
-    </div>
-    </div>
-<div class="column" style="width: 66%">
-  <!-- <div class="card-body"> -->
-    <!-- <h4 class="card-title">{{page.myname}}</h4> -->
-    <p class="card-text">{{page.summary}}</p>
+      </div>
 
-<!-- </div> -->
-</div>
-</div>
+      </div>
+
+
+      </div>
