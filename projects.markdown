@@ -25,4 +25,4 @@ Final Presentation for Grounded Sequence-to-Sequence Transduction.
 
 
 **December 2019**  - Los Angeles, California  
-I will be presenting at the [3rd International Workshop for Big Data in Financial News and Data](https://intelligentfinance.github.io/2019IEEE-BigData-Workshop/call.html), as part of the IEEE Big Data Conference.
+I will be presenting at the [3rd International Workshop on Big Data in Financial News and Data](https://intelligentfinance.github.io/2019IEEE-BigData-Workshop/call.html), as part of the IEEE Big Data Conference.
