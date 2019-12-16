@@ -35,8 +35,12 @@ linkedin_username: alissaostapenko
 
 # Build settings
 theme: minima
+gems:
+  - jekyll-sitemap
+whitelist:
+  - jekyll-sitemap
 plugins:
-  - jekyll-feed
+  - jekyll-sitemap
 defaults:
   -scope:
     path: "/images"
@@ -45,6 +49,7 @@ defaults:
     path: "/documents"
     values:
       file: true
+
 kramdown:
   parse_block_html: true
 # Exclude from processing.

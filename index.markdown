@@ -10,3 +10,5 @@ order: 1
 Hi! I'm an undergraduate senior at [Worcester Polytechnic Institute](https://wpi.edu) studying Computer Science and Mathematics.  My research interests lie at the intersection of human-computer interaction and machine learning (ML).  
 
 In graduate school, I aim to explore multimodal ML applications for **personal health informatics** and **human behavior analysis**.
+
+Outside of work I'll be drawing, listening to (lots of) music, reading, and staying active! 
