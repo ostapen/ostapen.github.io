@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: About Me
-image: /images/profile2.png
+image: /images/profile2.jpeg
 #myname: Hi there!
 #summary:
 order: 1
